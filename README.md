@@ -1,9 +1,3 @@
-## Hi there 👋
-
-Got it! Here's an updated version that includes your tech stack:
-
----
-
 ### 👋 Hey there, I'm Prathik Prajapati!  
 **Software Developer | Tech Enthusiast | Open Source Contributor**  
 
@@ -28,6 +22,21 @@ Got it! Here's an updated version that includes your tech stack:
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)  
+![Motoko](https://img.shields.io/badge/Motoko-purple?style=for-the-badge&logo=internet-computer)  
+![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=ethereum)  
+
+### 🚀 Tech Stack & Proficiency Levels  
+
+| Technology | Level |
+|------------|--------|
+| Python     | 🔵🔵🔵⚪ (Advanced) |
+| HTML5      | 🔵🔵🔵⚪ (Advanced) |
+| JavaScript | 🔵🔵⚪⚪ (Intermediate) |
+| Node.js    | 🔵🔵⚪⚪ (Intermediate) |
+| React      | 🔵🔵⚪⚪ (Intermediate) |
+| C          | 🔵🔵⚪⚪ (Intermediate) |
+| Motoko     | 🔵⚪⚪⚪ (Beginner) |
+| Blockchain | 🔵⚪⚪⚪ (Beginner) |
 
 ---
 
@@ -39,7 +48,3 @@ Got it! Here's an updated version that includes your tech stack:
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prathik-prajapati/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/prathikprajapati)  
-
----
-
-This profile brings together all the key elements to highlight your skills and work! Want to add anything more? 😃
