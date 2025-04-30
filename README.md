@@ -7,16 +7,8 @@
 
 ---
 
-### 📌 Featured Projects  
-- **[DestiNex](https://github.com/prathikprajapati/DestiNex)** ✈️ – A smart travel recommendation and booking system.  
-- **[BlockChain_ICP](https://github.com/prathikprajapati/BlockChain_ICP)** 🔗 – Exploring blockchain concepts with Motoko.  
-- **[CodeFlixLabs](https://codeflixlabs.com)** 🎥 – My very own coding hub!  
-- **[responsive-portfolio](https://github.com/prathikprajapati/responsive-portfolio)** 🌐 – A sleek portfolio showcasing my work.  
-
----
-
 ### 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)  
 ![Motoko](https://img.shields.io/badge/Motoko-purple?style=for-the-badge&logo=internet-computer)  ![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=ethereum)  
