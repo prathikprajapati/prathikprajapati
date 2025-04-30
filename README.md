@@ -8,7 +8,7 @@
 ---
 
 ### 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)  
