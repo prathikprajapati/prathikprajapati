@@ -1,5 +1,5 @@
 ### 👋 Hey there, I'm Prathik Prajapati!  
-**Software Developer | Tech Enthusiast | Open Source Contributor**  
+**2nd SEM CSE | Tech Enthusiast | Open Source Contributor**  
 
 🚀 Passionate about coding and building innovative solutions.  
 🌏 Exploring web development, blockchain, and AI.  
