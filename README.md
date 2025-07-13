@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/prathikprajapati)
-[LinkedIn](https://linkedin.com/in/prathik-prajapati)!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)]( https://github.com/prathikprajapati )  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]( https://linkedin.com/in/prathik-prajapati )
 
 🛠 Have feedback? Open an issue 
