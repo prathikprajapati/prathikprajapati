@@ -16,7 +16,8 @@
 - ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
 - ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)  
 - ![Motoko](https://img.shields.io/badge/Motoko-purple?style=for-the-badge&logo=internet-computer) 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=ethereum)  
+- ![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=ethereum)
+- ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c++)
 
 ### 🚀 Tech Stack & Proficiency Levels  
 
