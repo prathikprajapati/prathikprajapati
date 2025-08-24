@@ -1,48 +1,20 @@
-### 👋 Hey there, I'm Prathik Prajapati!  
+<h1 align="center">Hi 👋, I'm Prathik Prajapati</h1>
 **3rd SEM CSE | Tech Enthusiast | Open Source Contributor**  
+<h3 align="center">"Driven by Curiosity, Powered by Code"</h3>
 
-🚀 Passionate about coding and building innovative solutions.  
-🌏 Exploring web development, blockchain, and AI.  
-🎯 Always learning, always growing!  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathikprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="prathikprajapati" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathik-prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathik-prajapati/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/zzldimkd8m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zzldimkd8m/" height="30" width="40" /></a>
+</p>
 
-### 💻 Tech Stack  
-- ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-- ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-- ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-- ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
-- ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-- ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)  
-- ![Motoko](https://img.shields.io/badge/Motoko-purple?style=for-the-badge&logo=internet-computer) 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=ethereum)
-- ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=c++)
-- ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-  
-### 🚀 Tech Stack & Proficiency Levels  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathikprajapati&show_icons=true&locale=en&layout=compact" alt="prathikprajapati" /></p>
 
-| Technology | Level |
-|------------|--------|
-| Python     | 🔵🔵🔵⚪ (Advanced) |
-| HTML5      | 🔵🔵🔵⚪ (Advanced) |
-| JavaScript | 🔵🔵⚪⚪ (Intermediate) |
-| Node.js    | 🔵🔵⚪⚪ (Intermediate) |
-| React      | 🔵🔵⚪⚪ (Intermediate) |
-| C          | 🔵🔵⚪⚪ (Intermediate) |
-| Motoko     | 🔵⚪⚪⚪ (Beginner) |
-| Blockchain | 🔵⚪⚪⚪ (Beginner) |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathikprajapati&show_icons=true&locale=en" alt="prathikprajapati" /></p>
 
----
-
-### 📊 GitHub Stats  
-![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathikprajapati&show_icons=true&theme=radical)  
-
----
-
-### 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)]( https://github.com/prathikprajapati )  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]( https://linkedin.com/in/prathik-prajapati )
-
-🛠 Have feedback? Open an issue 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathikprajapati&" alt="prathikprajapati" /></p>
