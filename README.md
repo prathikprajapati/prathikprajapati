@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathik Prajapati</h1>
-**3rd SEM CSE | Tech Enthusiast | Open Source Contributor**  
+<h1 align="center">3rd SEM CSE | Tech Enthusiast | Open Source Contributor</h1>
 <h3 align="center">"Driven by Curiosity, Powered by Code"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathikprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="prathikprajapati" /> </p>
