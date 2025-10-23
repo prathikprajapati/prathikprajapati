@@ -6,35 +6,6 @@
 
 ### _"Driven by Curiosity, Powered by Code"_
 
-*Passionate about building full-stack applications, exploring data science, and leveraging technologies like Blockchain and AI/ML for impactful solutions.*
-
----
-
-### 🛠️ My Projects <!-- Or "Featured Work" -->
-
-<div align="center">
-
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| [DestiNex](https://github.com/prathikprajapati/DestiNex) | 🌍 Travel Recommendation and Booking System | HTML, CSS, JS, Python |
-| [personalized-content-Recommendation-system](https://github.com/prathikprajapati/personalized-content-Recommendation-system) | A system for personalized content suggestions | HTML, CSS, JS |
-| [Summer-Analytics-Prathik](https://github.com/prathikprajapati/Summer-Analytics-Prathik) | Analytics projects using Jupyter Notebooks | Jupyter Notebook, Python (Pandas, etc.) |
-| [responsive-portfolio](https://github.com/prathikprajapati/responsive-portfolio) | A responsive personal portfolio website | HTML, CSS, JS |
-| [TutuorWorld](https://github.com/prathikprajapati/TutuorWorld) | An educational platform concept | HTML, CSS, JS |
-
-</div>
-
-<details>
-  <summary>More Projects...</summary>
-
-  * **SIH-personal:** Personal version of an SIH (Smart India Hackathon) idea implementation.
-  * **CitySense:** A project related to city sensing or urban data (details based on original).
-  * **BlockChan-College-Events:** Repository for Blockchain-based college events.
-  * **Code-Radar-Solutions:** Solutions to problems on the Code Radar platform (C).
-  * **Code-Radar-Hackathon:** Repository for the Code Radar Hackathon (C).
-
-</details>
-
 ---
 
 ### 🌐 Connect with Me:
@@ -47,7 +18,6 @@
 ### 💻 Languages and Tools:
 
 <p align="center">
-  <!-- Your existing tech stack images -->
   <a href="https://www.arduino.cc/  " target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg  " alt="Arduino" width="40" height="40" style="margin: 5px;"/>
   </a>
@@ -124,19 +94,13 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathikprajapati&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathikprajapati&theme=dark" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathikprajapati&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <br/>
-  <!-- Optional: Activity Graph -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathikprajapati&theme=github-dark" /> -->
+  <img src="  https://github-readme-stats.vercel.app/api?username=prathikprajapati&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="  https://github-readme-streak-stats.herokuapp.com/?user=prathikprajapati&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
-
-### 💬 Ask Me About
-Open Source, C/C++, Python, Web Development (HTML/CSS/JS), Data Science (Pandas, Scikit-learn), Full-Stack Development, Arduino Projects, Blockchain Concepts
 
 </div>
