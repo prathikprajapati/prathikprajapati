@@ -91,6 +91,10 @@
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="478a00d2-38c6-4852-a8d3-f45e006b7831" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 ### 📊 GitHub Stats:
 
 <div align="center">
